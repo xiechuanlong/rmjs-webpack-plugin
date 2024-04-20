@@ -1,0 +1,14 @@
+{
+  "name": "rmjs-webpack-plugin",
+  "version": "1.0.0",
+  "description": "remove script tag from file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
